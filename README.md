@@ -2,4 +2,4 @@
 
 ## Video preview
 
-<video src='https://youtube.com/shorts/Bv870FFkECg?feature=share' width=180/>
+<video src='https://youtu.be/Bv870FFkECg' width=180/>
