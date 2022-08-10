@@ -2,4 +2,4 @@
 
 ## Video preview
 
-<video src='https://youtu.be/Bv870FFkECg' width=180/>
+[![~](https://youtube-md.vercel.app/Bv870FFkECg/640/360)](https://www.youtube.com/watch?v=Bv870FFkECg)
